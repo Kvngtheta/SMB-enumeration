@@ -9,4 +9,4 @@ Options
 -t: target Ip address
 
 Usage: 
-./rpc_enum.sh -U <username> -P <password> -t <target_ip>
+sudo ./smb-enum.sh -U <username> -P <password> -t <target_ip>
